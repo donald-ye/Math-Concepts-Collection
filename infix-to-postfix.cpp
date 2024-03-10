@@ -5,9 +5,8 @@
  *
  * The program first tokenizes the entered equation into its individual
  * pieces, and then uses a stack to put them back together in RPN.
- *
- * if you get a segmentation fault, make sure your stack is not empty before
- * trying to pop an item from it.
+ * 
+ * Practice applying stacks and queues
  */
 
 #include <iostream>
