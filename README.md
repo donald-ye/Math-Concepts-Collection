@@ -1,2 +1,2 @@
 # Math-Stuff
-Stuff that's Math related
+Coding projects used to explore math concepts. Notably Numerical Analysis and Approximations. 
