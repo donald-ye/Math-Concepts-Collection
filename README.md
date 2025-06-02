@@ -8,13 +8,13 @@ All work is modular, readable, and built to reflect how a technical contributor 
 
 ## 📌 Summary of Projects
 
-| Project | Concepts | Skills Showcased | Visual Output |
-|--------|----------|------------------|----------------|
-| **1. Interpolation** | Lagrange, Divided Differences, Cubic Splines | Polynomial construction, continuity handling | ![Plot](images/interpolation.png) |
-| **2. Fourier & Integration** | Simpson's Rule, Fourier Coefficients, Approximation | Signal reconstruction, integration, convergence | ![Plot](images/fourier.png) |
-| **3. Rootfinding** | Bisection, Newton-Raphson, Secant Method | Iterative methods, convergence speed, stability | ![Graph](images/rootfinding.png) |
-| **4. SVD & Compression** | QR Decomposition, Gram-Schmidt, SVD | Dimensionality reduction, image compression | ![Image](images/svd_compression.png) |
-| **5. Solving Systems** | Gaussian Elimination, Jacobi, Gauss-Seidel | Matrix ops, precision, iterative solution paths | ![Output](images/linear_systems.png) |
+| Project | Concepts | Skills Showcased |
+|--------|----------|------------------|
+| **1. Interpolation** | Lagrange, Divided Differences, Cubic Splines | Polynomial construction, continuity handling |
+| **2. Fourier & Integration** | Simpson's Rule, Fourier Coefficients, Approximation | Signal reconstruction, integration, convergence |
+| **3. Rootfinding** | Bisection, Newton-Raphson, Secant Method | Iterative methods, convergence speed, stability |
+| **4. SVD & Compression** | QR Decomposition, Gram-Schmidt, SVD | Dimensionality reduction, image compression | 
+| **5. Solving Systems** | Gaussian Elimination, Jacobi, Gauss-Seidel | Matrix ops, precision, iterative solution paths |
 
 > 💡 All core techniques are implemented without relying on high-level libraries like `scipy.optimize`, to reinforce mathematical intuition.
 
