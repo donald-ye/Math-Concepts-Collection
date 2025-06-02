@@ -1,2 +1,33 @@
-# Math-Stuff
-Coding projects used to explore mathematical concepts. Notably for Numerical Analysis and Approximations. 
+# Math + CS: Numerical Methods Portfolio
+
+This repository is a curated portfolio of five core coding projects that bring together concepts from **applied mathematics**, **numerical computing**, and **algorithm design** — implemented from scratch in Python. The goal: to demonstrate both **deep understanding** and **practical execution** of mathematical techniques that underpin scientific computing, graphics, and machine learning.
+
+All work is modular, readable, and built to reflect how a technical contributor thinks, writes, and solves problems — from first principles.
+
+---
+
+## 📌 Summary of Projects
+
+| Project | Concepts | Skills Showcased | Visual Output |
+|--------|----------|------------------|----------------|
+| **1. Interpolation** | Lagrange, Divided Differences, Cubic Splines | Polynomial construction, continuity handling | ![Plot](images/interpolation.png) |
+| **2. Fourier & Integration** | Simpson's Rule, Fourier Coefficients, Approximation | Signal reconstruction, integration, convergence | ![Plot](images/fourier.png) |
+| **3. Rootfinding** | Bisection, Newton-Raphson, Secant Method | Iterative methods, convergence speed, stability | ![Graph](images/rootfinding.png) |
+| **4. SVD & Compression** | QR Decomposition, Gram-Schmidt, SVD | Dimensionality reduction, image compression | ![Image](images/svd_compression.png) |
+| **5. Solving Systems** | Gaussian Elimination, Jacobi, Gauss-Seidel | Matrix ops, precision, iterative solution paths | ![Output](images/linear_systems.png) |
+
+> 💡 All core techniques are implemented without relying on high-level libraries like `scipy.optimize`, to reinforce mathematical intuition.
+
+---
+
+## 🧪 Why These Projects Matter
+
+These projects represent building blocks of modern numerical software. They're applicable to:
+
+- 🧮 Scientific simulations (e.g. physics, climate models)
+- 🖼 Image & signal processing (e.g. compression, noise filtering)
+- 📊 Data science & ML (e.g. dimensionality reduction, function approximation)
+- 💻 Systems design (e.g. fast solvers, stability under load)
+
+By writing these methods from the ground up, I’ve gained hands-on insight into how performance, stability, and numerical error evolve in practice — something that directly translates to software engineering rigor.
+
