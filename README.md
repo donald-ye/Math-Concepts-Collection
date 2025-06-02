@@ -1,2 +1,2 @@
 # Math-Stuff
-Coding projects used to explore math concepts. Notably Numerical Analysis and Approximations. 
+Coding projects used to explore mathematical concepts. Notably for Numerical Analysis and Approximations. 
