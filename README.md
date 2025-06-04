@@ -1,8 +1,6 @@
-# Math + CS: Numerical Methods Portfolio
+# Math + CS: Numerical Methods 
 
-This repository is a curated portfolio of five core coding projects that bring together concepts from **applied mathematics**, **numerical computing**, and **algorithm design** — implemented from scratch in Python. The goal: to demonstrate both **deep understanding** and **practical execution** of mathematical techniques that underpin scientific computing, graphics, and machine learning.
-
-All work is modular, readable, and built to reflect how a technical contributor thinks, writes, and solves problems — from first principles.
+This repository is a curated portfolio of  core coding projects that bring together concepts from **applied mathematics**, **numerical computing**, and **algorithm design** — implemented from scratch in Python. The goal: to demonstrate both **deep understanding** and **practical execution** of mathematical techniques that underpin scientific computing, graphics, and machine learning.
 
 ---
 
@@ -24,10 +22,10 @@ All work is modular, readable, and built to reflect how a technical contributor 
 
 These projects represent building blocks of modern numerical software. They're applicable to:
 
-- 🧮 Scientific simulations (e.g. physics, climate models)
-- 🖼 Image & signal processing (e.g. compression, noise filtering)
-- 📊 Data science & ML (e.g. dimensionality reduction, function approximation)
-- 💻 Systems design (e.g. fast solvers, stability under load)
+- **Scientific simulations** (e.g. physics, climate models)
+- **Image & signal processing** (e.g. compression, noise filtering)
+- **Data science & ML** (e.g. dimensionality reduction, function approximation)
+- **Systems design** (e.g. fast solvers, stability under load)
 
-By writing these methods from the ground up, I’ve gained hands-on insight into how performance, stability, and numerical error evolve in practice — something that directly translates to software engineering rigor.
+By writing these methods from the ground up, I’ve gained hands-on insight into how performance, stability, and numerical error evolve in practice.
 
