@@ -1,6 +1,7 @@
 # Math + CS: Numerical Methods 
 
-This repository is a curated portfolio of  core coding projects that bring together concepts from **applied mathematics**, **numerical computing**, and **algorithm design** — implemented from scratch in Python. The goal: to demonstrate both **deep understanding** and **practical execution** of mathematical techniques that underpin scientific computing, graphics, and machine learning.
+This repository is a curated portfolio of core coding projects that combine concepts from **applied mathematics**, **numerical computing**, and **algorithm design**, all implemented from scratch in Python.
+The goal: to demonstrate both **deep understanding** and **practical execution** of mathematical techniques that underpin scientific computing, graphics, and machine learning.
 
 ---
 
@@ -33,9 +34,18 @@ By writing these methods from the ground up, I’ve gained hands-on insight into
 
 ## 👥 Key Contributors
 
-- [Donald Ye]() 
-- [Jane Warren]() 
-- [Dakota]() 
-- [Rebecca Polak]() 
-- [Paulina Delabra Serrano]()
+This project was developed in collaboration with:
+
+- Donald Ye  
+- Jane Warren  
+- Dakota Goto  
+- Rebecca Polak  
+- Paulina Delabra Serrano
+
+
+- [Donald Ye]
+- [Jane Warren]
+- [Dakota Goto]
+- [Rebecca Polak]
+- [Paulina Delabra Serrano]
 
