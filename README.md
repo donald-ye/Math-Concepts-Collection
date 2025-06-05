@@ -29,3 +29,13 @@ These projects represent building blocks of modern numerical software. They're a
 
 By writing these methods from the ground up, I’ve gained hands-on insight into how performance, stability, and numerical error evolve in practice.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+
+## 👥 Key Contributors
+
+- [Donald Ye]() 
+- [Jane Warren]() 
+- [Dakota]() 
+- [Rebecca Polak]() 
+- [Paulina Delabra Serrano]()
+
